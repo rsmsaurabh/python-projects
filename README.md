@@ -1,13 +1,13 @@
-Simple Calculator
+**Simple Calculator**
 This is a simple command-line calculator implemented in Python. It supports basic arithmetic operations including addition, subtraction, multiplication, and division.
 
-Features
+**Features**
 Add: Adds two numbers.
 Subtract: Subtracts the second number from the first.
 Multiply: Multiplies two numbers.
 Divide: Divides the first number by the second (with error handling for division by zero).
 
-Usage
+**Usage**
 To use the calculator, follow these steps:
 Clone the Repository
 git clone https://github.com/yourusername/your-repo-name.git
